@@ -1,0 +1,1 @@
+This is a project for the FreeCodeCamp Front-End Development Libraries Certification. It is a simple yet functional JavaScript calculator that can perform basic arithmetic operations.
